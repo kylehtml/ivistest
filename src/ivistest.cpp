@@ -7,9 +7,12 @@
 //============================================================================
 
 #include <iostream>
+#include "vload/dtraversal.h"
 using namespace std;
 
 int main() {
-	cout << "asdasd" << endl; // prints a
+
+
+	dtraversal travers;
 	return 0;
 }
